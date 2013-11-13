@@ -61,10 +61,6 @@ h2 {font-size: 150%;
 h3{
     font-size: 100%;
 }    
-.subheader{   
-        overflow: hidden;
-        clear: both;
-}
 header ul li{
 	float:right;
 	margin-top: -12px;
@@ -93,26 +89,6 @@ a:visited{
     border: solid 5px black;
     margin-top: 10px;
     }
-.content{
-    overflow: hidden;
-    clear: both;
-}
-.stuff{
-    float:left;
-    width:50%;
-    }
-.sidebar{
-    float:right;
-    width: 40%;
-    clear: both;
-    border: solid 5px black;
-    padding: 5px;
-    margin: 5px -4em;
-    margin-bottom: 20px;
-    margin-top: 5px;}
-.favorites{
-    list-style-type:square;}
-}
 .footer{
     clear:both;
     border-top: solid 5px black;
